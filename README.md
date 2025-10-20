@@ -6,7 +6,7 @@
 
 ## 👋 Hello, I’m **Al Sayed Rohiem**, a Data Analyst from Egypt  
 🎯 Passionate about turning data into insights & creating meaningful visual stories.  
-📊 Focused on **Python, SQL, Excel, Power BI, and Data Visualization**.  
+📊 Focused on **Python, C++, SQL, Excel, Power BI, and Data Visualization**.  
 🎥 Also, a **Content Creator** helping others start their Data journey.
 
 ---
@@ -14,6 +14,7 @@
 ### 🧠 Skills & Tools I Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C4B33?style=flat&logo=matplotlib&logoColor=white)
