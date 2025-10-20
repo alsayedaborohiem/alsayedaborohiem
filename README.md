@@ -1,50 +1,74 @@
-<div align="center" width="50">
+<!-- ======================= -->
+<!--   Al Sayed Rohiem GitHub README   -->
+<!-- ======================= -->
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+<div align="center">
+
+## 👋 Hello, I’m **Al Sayed Rohiem**, a Data Analyst from Egypt  
+🎯 Passionate about turning data into insights & creating meaningful visual stories.  
+📊 Focused on **Python, SQL, Excel, Power BI, and Data Visualization**.  
+🎥 Also, a **Content Creator** helping others start their Data journey.
 
 ---
 
-### 👋 Hi, I'm **Al Sayed Rohiem**
-🎯 Data Analyst | YouTube Content Creator | Python & SQL Enthusiast | Lifelong Learner  
-💡 Passionate about transforming data into insights and sharing knowledge through content.
+### 🧠 Skills & Tools I Use
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0C4B33?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=AlSayedRohiem&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlSayedRohiem&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+### 📈 Featured Projects
+> 🚧 This section will soon feature my best Data Analysis projects — stay tuned!
 
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](#)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](#)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=telegram)](#)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](#)
+---
+
+### 🎥 My YouTube Journey  
+> 🎬 I create videos about **Data Analysis**, **Python**, and **Power BI** to help beginners grow in tech.  
+> 🧩 *Link coming soon...*
+
+---
+
+### 🌐 Connect With Me  
+
+<a href="https://www.facebook.com/al.sayed.abo.roheem" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/alsayedaboroheem" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/sayed-rohiem-193147335" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+---
+
+### 📊 GitHub Stats  
+
+<img src="https://github-readme-stats.vercel.app/api?username=AlSayedRohiem&show_icons=true&theme=transparent&hide_title=true&hide_border=true" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlSayedRohiem&layout=compact&theme=transparent&hide_border=true" width="49%">
+
+---
+
+### 💬 Quote
+> *"Without data, you’re just another person with an opinion."* — W. Edwards Deming
 
 </div>
-
----
-
-### 🚀 Tools & Technologies I Use
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-```python
-# My tools, organized as a Python dictionary 👇
-
-my_tools = {
-  "Programming Languages": ["Python", "C++", "SQL"],
-  "Data Tools": ["Power BI", "Excel", "Pandas", "Matplotlib"],
-  "Web Basics": ["HTML", "CSS"],
-  "Editors": ["VS Code", "Jupyter Notebook"],
-  "Version Control": ["Git", "GitHub"],
-  "Operating Systems": ["Windows", "Linux"]
-}
