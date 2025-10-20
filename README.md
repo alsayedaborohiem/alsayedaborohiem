@@ -17,6 +17,7 @@
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](#)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](#)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=telegram)](#)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](#)
 
 </div>
 
