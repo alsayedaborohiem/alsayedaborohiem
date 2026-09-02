@@ -1,75 +1,109 @@
-<!-- ======================= -->
-<!--   Al Sayed Rohiem GitHub README   -->
-<!-- ======================= -->
+# 👋 Hello, I'm AlSayed Ibrahiem Rohiem
 
-<div align="center">
+### 💻 Back-End Developer | PHP & Laravel
 
-## 👋 Hello, I’m **Al Sayed Rohiem**, a Data Analyst from Egypt  
-🎯 Passionate about turning data into insights & creating meaningful visual stories.  
-📊 Focused on **Python, C++, SQL, Excel, Power BI, and Data Visualization**.  
-🎥 Also, a **Content Creator** helping others start their Data journey.
+I'm a Back-End Developer passionate about building dynamic web applications,
+working with databases, and creating clean and reliable server-side systems.
 
----
-
-### 🧠 Skills & Tools I Use
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0C4B33?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+I enjoy turning ideas into functional applications and continuously improving
+my development skills through real-world projects.
 
 ---
 
-### 📈 Featured Projects
-> 🚧 This section will soon feature my best Data Analysis projects — stay tuned!
+## 🚀 About Me
+
+- 💻 Back-End Developer
+- 🐘 Working with PHP
+- 🚀 Learning & building applications with Laravel
+- 🗄️ Working with MySQL databases
+- 🔐 Interested in Authentication & Authorization
+- ⚙️ Experienced with CRUD operations
+- 🌐 Building dynamic web applications
+- 🔧 Using Git & GitHub for version control
 
 ---
 
-### 🎥 My YouTube Journey  
-> 🎬 I create videos about **Data Analysis**, **Python**, and **Power BI** to help beginners grow in tech.  
-> 🧩 *Link coming soon...*
+## 🛠️ Technologies & Tools
+
+### 👨‍💻 Back-End
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Front-End
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🌐 Connect With Me  
+## 🚀 Featured Projects
 
-<a href="https://www.facebook.com/al.sayed.abo.roheem" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/alsayedaboroheem" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/sayed-rohiem-193147335" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
+### 🎓 Academy Management System
 
----
+A dynamic academy management system designed to manage students,
+courses, registrations, and administrative operations.
 
-### 📊 GitHub Stats  
+**Technologies:**
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlSayedRohiem&show_icons=true&theme=transparent&hide_title=true&hide_border=true" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlSayedRohiem&layout=compact&theme=transparent&hide_border=true" width="49%">
+`PHP` `MySQL` `Bootstrap` `JavaScript`
+
+### 🔐 Authentication System
+
+A web-based authentication system including user login,
+registration, sessions, and role-based access.
+
+**Technologies:**
+
+`PHP` `MySQL` `Bootstrap`
 
 ---
 
-### 💬 Quote
-> *"Without data, you’re just another person with an opinion."* — W. Edwards Deming
+## 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alsayedabrohiem&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsayedabrohiem&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alsayedabrohiem&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 My Development Journey
+
+```text
+HTML / CSS
+     ↓
+JavaScript
+     ↓
+PHP
+     ↓
+MySQL
+     ↓
+Back-End Development
+     ↓
+Laravel
+     ↓
+Building Real-World Applications 🚀
